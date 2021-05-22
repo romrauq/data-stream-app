@@ -1,0 +1,17 @@
+{
+	"name": "bitmex-trading-program(ccxt)",
+	"version": "1.0.0",
+	"description": "A program to fetch and display relevant exchange data streams",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "John Quarmor",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"ccxt": "^1.48.62",
+		"dotenv": "^8.2.0"
+	}
+}
