@@ -27,3 +27,5 @@ const mainFunction = async () => {
 };
 
 mainFunction(); // Execute/start the program.
+
+// Reminder comment: Learn how to create and add HTML elements to the DOM output them.
